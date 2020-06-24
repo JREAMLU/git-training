@@ -1,2 +1,2 @@
 # git-training
-training &amp; practice
+Training &amp; Practice
